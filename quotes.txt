@@ -98,3 +98,13 @@
 <Vazkii> TC4 is dark now.
 <Vazkii> >_>
 <Vazkii> I never really got the point of wanting a dark experience. Is your life so amazing that you need to tone it down with depressing shit?
+
+<Vazkii> Well that's fun though :P
+<SpwnX> s//woop
+<Jibril> <Vazkii> woopWwoopewooplwooplwoop wooptwoophwoopawooptwoop'woopswoop woopfwoopuwoopnwoop wooptwoophwoopowoopuwoopgwoophwoop woop:woopPwoop
+<SpwnX> Doh
+<Vazkii> Reminds me of that time I wrote a thing to replace every other word with vagina
+<Xenans> The applications are endless
+<Vazkii> s/(\w+)\s\w+/$1 vagina/
+<Jibril> <Xenans> The vagina are vagina
+<Xenans> Like I said, endless.
